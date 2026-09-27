@@ -31,43 +31,55 @@ Ziyaretçiler ürünleri ve canlı araçları görüntüleyebilir. Kayıtlı kul
 
 Özellik
 Açıklama
+
 Durum
+
 Soft modern tasarım
-Beyaz, lavanta ve koyu mor renk paleti
-✅
+Beyaz, lavanta ve koyu mor renk paleti✅
+
 Responsive yapı
-Mobil, tablet ve masaüstü uyumu
-✅
+
+Mobil, tablet ve masaüstü uyumu✅
+
 Koyu/açık tema
-Tema düğmesi ve tarayıcıda kayıt
-✅
+
+Tema düğmesi ve tarayıcıda kayıt✅
+
 Canlı saat
-Ziyaretçinin yerel saatini gösterir
-✅
+
+Ziyaretçinin yerel saatini gösterir✅
+
 Ankara hava durumu
-Open-Meteo üzerinden canlı veri alır
-✅
+
+Open-Meteo üzerinden canlı veri alır✅
+
 Hesap makinesi
-Dört işlem ve yüzde hesabı
-✅
+
+Dört işlem ve yüzde hesabı✅
+
 Kullanıcı sistemi
-Kayıt, giriş ve güvenli çıkış
-✅
+
+Kayıt, giriş ve güvenli çıkış✅
+
 Dijital ürün mağazası
-Ürün listeleme ve kategori yapısı
-✅
+
+Ürün listeleme ve kategori yapısı✅
+
 Sepet
-Ürün ekleme, adet değiştirme ve silme
-✅
+
+Ürün ekleme, adet değiştirme ve silme✅
+
 Sipariş
-Sepeti sipariş talebine dönüştürme
-✅
+
+Sepeti sipariş talebine dönüştürme✅
+
 Admin paneli
-Ürün, sipariş ve geri bildirim yönetimi
-✅
+
+Ürün, sipariş ve geri bildirim yönetimi✅
+
 Geri bildirim
-Şikâyet, öneri ve iş birliği formu
-✅
+
+Şikâyet, öneri ve iş birliği formu✅
 
 
 
