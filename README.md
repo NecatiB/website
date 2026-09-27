@@ -188,17 +188,13 @@ database-infinityfree.sql
 
 phpMyAdmin’de:
 
-1.
-Doğru veritabanını seç.
+1.Doğru veritabanını seç.
 
-2.
-Import / İçe aktar sekmesine gir.
+2.Import / İçe aktar sekmesine gir.
 
-3.
-database-infinityfree.sql dosyasını seç.
+3.database-infinityfree.sql dosyasını seç.
 
-4.
-Go / Git butonuna bas.
+4.Go / Git butonuna bas.
 
 Başarılı olursa şu tablolar görünür:
 
@@ -230,17 +226,13 @@ const DB_PASS = 'KENDI_MYSQL_SIFREN';
 
 
 
-•
-DB_HOST: InfinityFree MySQL hostname
+•DB_HOST: InfinityFree MySQL hostname
 
-•
-DB_NAME: InfinityFree’nin verdiği tam veritabanı adı
+•DB_NAME: InfinityFree’nin verdiği tam veritabanı adı
 
-•
-DB_USER: InfinityFree MySQL username
+•DB_USER: InfinityFree MySQL username
 
-•
-DB_PASS: InfinityFree MySQL parolası
+•DB_PASS: InfinityFree MySQL parolası
 
 
 Gerçek parolayı GitHub’a yükleme ve kimseyle paylaşma.
@@ -411,29 +403,21 @@ https://site-adresin.free.nf/admin.php
 
 Güvenlik notları
 
-•
-Gerçek MySQL parolanı GitHub’a yükleme.
+•Gerçek MySQL parolanı GitHub’a yükleme.
 
-•
-config.php dosyasını herkese açık şekilde paylaşma.
+•config.php dosyasını herkese açık şekilde paylaşma.
 
-•
-Hosting veya MySQL parolanı sohbetlerde paylaşma.
+•Hosting veya MySQL parolanı sohbetlerde paylaşma.
 
-•
-Parolalar sistemde password_hash( ) ile saklanır.
+•Parolalar sistemde password_hash( ) ile saklanır.
 
-•
-Veritabanı sorgularında PDO prepared statements kullanılır.
+•Veritabanı sorgularında PDO prepared statements kullanılır.
 
-•
-Admin kontrolü server tarafında yapılır.
+•Admin kontrolü server tarafında yapılır.
 
-•
-InfinityFree’de mail() çalışmayabilir; gerçek e-posta bildirimi için SMTP/PHPMailer gerekebilir.
+•InfinityFree’de mail() çalışmayabilir; gerçek e-posta bildirimi için SMTP/PHPMailer gerekebilir.
 
-•
-Ödeme sistemi bu sürümde bulunmaz; siparişler admin paneline talep olarak düşer.
+•Ödeme sistemi bu sürümde bulunmaz; siparişler admin paneline talep olarak düşer.
 
 Geliştirici
 
@@ -467,7 +451,7 @@ Necati Bulduk
 
 <div align="center">
 
-Nexora — Build useful things.
+Nexora 
 
 </div>
 
