@@ -3,6 +3,11 @@
 # ✦ NEXORA
 ### Soft Modern Digital Store — PHP & MySQL
 
+> [!WARNING]
+> ⚠️ **ÖNEMLİ BİLGİLENDİRME**
+>
+> Bu projede sunulan veya bağlantısı bulunan içeriklerin ticari satışı mevcutsa, lütfen herhangi bir ödeme işlemi gerçekleştirmeyiniz. Proje kapsamındaki tüm materyaller bilgilendirme ve açık kaynak kullanımı amacıyla sunulmaktadır.
+
 Geliştiriciler ve teknoloji meraklıları için hazırlanmış; canlı araçlar, dijital ürün mağazası, kullanıcı hesapları ve admin paneli içeren responsive PHP web uygulaması.
 
 [**🌐 Canlı Siteyi Ziyaret Et (Live Demo)**](https://nexorasite.free.nf)
